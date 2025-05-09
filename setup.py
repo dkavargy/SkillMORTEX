@@ -12,7 +12,7 @@ setup(
     description="A framework for modeling digital skill decay, survival, and obsolescence using epidemiological and statistical methods",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/skillmortex",  # replace with actual URL
+    url="https://github.com/dkavargy/skillmortex",  # replace with actual URL
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
