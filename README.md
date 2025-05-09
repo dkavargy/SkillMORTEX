@@ -51,6 +51,6 @@ SkillMORTEX/
 │   └── metrics.py
 ├── figures/
 │   └── example_outputs/
-└── outputs/
-    ├── results.csv
-    └── model_summary.json
+└── gui/
+    ├── skill epidemiology dashboard
+    └── skill trend dashboard
