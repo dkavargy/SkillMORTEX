@@ -16,7 +16,7 @@ In today’s fast-paced digital labor market, skills emerge and disappear rapidl
 
 ## 🔄 Cloning This Repository
 
-This repository may include one or more submodules (e.g., external skill taggers, models, or shared utilities). To clone both this repository and its submodules in one command, use:
+This repository include more submodules (e.g., external skill taggers, models, or shared utilities). To clone both this repository and its submodules in one command, use:
 
 ```bash
 git clone --recurse-submodules https://github.com/dkavargy/SkillMORTEX.git
