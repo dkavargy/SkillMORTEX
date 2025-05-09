@@ -1,3 +1,6 @@
+[![Documentation Status](https://readthedocs.org/projects/tsfel/badge/?version=latest)](https://tsfel.readthedocs.io/en/latest/?badge=latest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tsfel)
+
+
 # SkillMORTEX: Skill MORtality and EXtinction Ecosystem
 
 **SkillMORTEX** is a research-driven framework for modeling the lifecycle of digital skills using techniques inspired by epidemiology and survival analysis. It leverages real-world usage data (e.g., from Stack Overflow) to identify skill birth, growth, decay, and eventual obsolescence.
