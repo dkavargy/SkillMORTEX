@@ -1,0 +1,62 @@
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dll
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Environment folders
+.venv/
+venv/
+env/
+
+# Data folders (raw + processed)
+data/raw/
+data/processed/
+*.csv
+*.json
+*.tsv
+
+# Generated outputs
+outputs/
+results/
+*.out
+*.log
+*.xlsx
+
+# Model artifacts
+*.pkl
+*.joblib
+*.pt
+*.h5
+
+# Figures and visualizations
+figures/*.png
+figures/*.jpg
+figures/*.svg
+
+# Temporary files and system artifacts
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Markdown preview caches or temporary files
+*.md~ 
