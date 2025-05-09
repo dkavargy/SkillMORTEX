@@ -15,6 +15,13 @@ In today’s fast-paced digital labor market, skills emerge and disappear rapidl
 - Longitudinal trend analysis from 2008 to 2024
 
 ---
+## 🧠 SkillMORTEX Ecosystem Overview
+
+The diagram below illustrates the core phases of the **SkillMORTEX framework**, which models digital skills as biological entities undergoing infection, contagion, and extinction. It integrates foresight objectives, data pipelines, and epidemiological logic to generate actionable insights on skill survival and obsolescence.
+
+![SkillMORTEX Ecosystem](figures/ecoss.png)
+
+---
 
 ## 🧪 Features
 
