@@ -14,6 +14,21 @@ In today’s fast-paced digital labor market, skills emerge and disappear rapidl
 - Epidemiological metrics (prevalence, incidence, mortality)
 - Longitudinal trend analysis from 2008 to 2024
 
+## 🔄 Cloning This Repository
+
+This repository may include one or more submodules (e.g., external skill taggers, models, or shared utilities). To clone both this repository and its submodules in one command, use:
+
+```bash
+git clone --recurse-submodules https://github.com/dkavargy/SkillMORTEX.git
+```
+Or use these three commands:
+
+```bash
+git clone https://github.com/dkavargy/SkillMORTEX.git
+cd SkillMORTEX
+git submodule update --init --recursive
+```
+
 ---
 ## 🧠 SkillMORTEX Ecosystem Overview
 
