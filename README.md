@@ -55,7 +55,7 @@ The diagram below illustrates the core phases of the **SkillMORTEX framework**, 
 
 Below is a screenshot of the SkillMORTEX visual interface that displays skill survival analytics and inversion trends in real time:
 
-![SkillMORTEX Ecosystem](figures/skill_new dashs.png)
+![SkillMORTEX GUI](figures/skill_newdashs.png)
 
 
 ## 📁 Project Structure
